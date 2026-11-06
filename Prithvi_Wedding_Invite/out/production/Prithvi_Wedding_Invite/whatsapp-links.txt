@@ -1,0 +1,12 @@
+Prathamesh (Invite Link)    -> http://localhost:5173/?g=prathamesh
+Prathamesh (ThankYou Test)  -> http://localhost:5173/?g=prathamesh&preview=thankyou
+----------------------------------------------------------------------
+Rahul Sharma (Invite Link)    -> http://localhost:5173/?g=rahul-sharma
+Rahul Sharma (ThankYou Test)  -> http://localhost:5173/?g=rahul-sharma&preview=thankyou
+----------------------------------------------------------------------
+Priya Deshmukh (Invite Link)    -> http://localhost:5173/?g=priya-deshmukh
+Priya Deshmukh (ThankYou Test)  -> http://localhost:5173/?g=priya-deshmukh&preview=thankyou
+----------------------------------------------------------------------
+Amit Kulkarni (Invite Link)    -> http://localhost:5173/?g=amit-kulkarni
+Amit Kulkarni (ThankYou Test)  -> http://localhost:5173/?g=amit-kulkarni&preview=thankyou
+----------------------------------------------------------------------

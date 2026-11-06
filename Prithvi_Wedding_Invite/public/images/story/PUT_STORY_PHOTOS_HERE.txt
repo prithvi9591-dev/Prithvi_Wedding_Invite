@@ -1,0 +1,4 @@
+Place your 3 Love Story chapter photos inside this folder (public/images/story/) with these exact names:
+1. chapter-1.jpg
+2. chapter-2.jpg
+3. chapter-3.jpg

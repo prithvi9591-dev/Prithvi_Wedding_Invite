@@ -1,0 +1,4 @@
+Place your wedding instrumental MP3 file inside this folder (public/audio/) and name it:
+wedding-theme.mp3
+
+Full path: public/audio/wedding-theme.mp3

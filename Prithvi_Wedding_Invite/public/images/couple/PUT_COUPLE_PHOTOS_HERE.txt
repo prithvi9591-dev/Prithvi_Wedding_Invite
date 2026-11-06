@@ -1,0 +1,5 @@
+Place your Bride and Groom photos inside this folder (public/images/couple/) with these exact names:
+1. groom.jpg
+2. bride.jpg
+
+(Until you add them, the website automatically displays high-resolution fallback portraits so you can test right away.)
